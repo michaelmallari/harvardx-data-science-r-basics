@@ -2,7 +2,7 @@
 # Section 1: R Basics, Functions, and Data Types
 
 # Additional Resources:
-# https://rpubs.com/michaelmallari/harvardx-data-science-section-1
+# https://rpubs.com/michaelmallari/r-basics-section-1-harvardx-data-science
 # http://www.michaelmallari.com/data/
 
 
